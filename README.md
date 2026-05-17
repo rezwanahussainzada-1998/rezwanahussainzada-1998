@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there, I am Rezwana Hussainzada 👋
 
-<!--
-**rezwanahussainzada-1998/rezwanahussainzada-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate student deeply passionate about the intersection of Mathematics, Computational Neuroscience, and Machine Learning. My work focuses on neural modeling, theoretical neuroscience, and data processing pipelines. With a strong background in Geometry and Topology, my research explores Topological Neuroscience, where the topological properties of neural networks reveal fundamental biological differences in brain structure and function.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Areas of Interest & Research** 🧠
+
+* Computational Neuroscience
+
+* AI & Machine Learning
+
+* Applied Mathematics
+
+* Topological Neuroscience (Brain Structure, Brain Function, Neural Code)
+
+* Topological Data Analysis
+
+---
+
+**Technical Toolkit**
+
+* Languages: Python
+
+* Libraries & Frameworks: PyTorch, NumPy, scikit-learn, SciPy, Matplotlib, Brian2
+
+* Tools & Platforms: Git, Jupyter Notebook, Google Colab, LaTeX
