@@ -16,12 +16,4 @@ I am a graduate student deeply passionate about the intersection of Mathematics,
 
 * Topological Data Analysis
 
----
 
-**Technical Toolkit**
-
-* Languages: Python
-
-* Libraries & Frameworks: PyTorch, NumPy, scikit-learn, SciPy, Matplotlib, Brian2
-
-* Tools & Platforms: Git, Jupyter Notebook, Google Colab, LaTeX
